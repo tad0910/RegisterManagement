@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\models\\internship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:models\\internship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\repositories\\iinternshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:repositories\\iinternshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\controllers\\internshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:controllers\\internshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\services\\internshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:services\\internshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\services\\iinternshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:services\\iinternshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\repositories\\internshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:repositories\\internshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\studentinternshipmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:studentinternshipmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|c:\\users\\admin\\source\\repos\\studentinternshipmanagement\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCE62A0-74F3-47C1-9A65-5803A85C8317}|StudentInternshipManagement.csproj|solutionrelative:services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\Debug\\net8.0\\StudentInternshipManagement.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\StudentInternshipManagement.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314081947_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250314081947_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314173439_ChangeCompanyIdToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250314173439_ChangeCompanyIdToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314172340_UpdateInternshipTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250314172340_UpdateInternshipTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\StudentInternshipManagement.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\StudentInternshipManagement.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\StudentInternshipManagement.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\StudentInternshipManagement.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T07:58:26.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInternshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\IInternshipRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IInternshipRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\IInternshipRepository.cs",
+              "RelativeToolTip": "Repositories\\IInternshipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:28:58.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InternshipController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\InternshipController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InternshipController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\InternshipController.cs",
+              "RelativeToolTip": "Controllers\\InternshipController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:54:21.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InternshipService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\InternshipService.cs",
+              "RelativeDocumentMoniker": "Services\\InternshipService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\InternshipService.cs",
+              "RelativeToolTip": "Services\\InternshipService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:47:40.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInternshipService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\IInternshipService.cs",
+              "RelativeDocumentMoniker": "Services\\IInternshipService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\IInternshipService.cs",
+              "RelativeToolTip": "Services\\IInternshipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:40:10.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InternshipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\InternshipRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InternshipRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\InternshipRepository.cs",
+              "RelativeToolTip": "Repositories\\InternshipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:42:48.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Internship.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Models\\Internship.cs",
+              "RelativeDocumentMoniker": "Models\\Internship.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Models\\Internship.cs",
+              "RelativeToolTip": "Models\\Internship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:57:08.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\ICompanyRepository.cs",
+              "RelativeToolTip": "Repositories\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:24:37.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:25:11.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Controllers\\CompanyController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:16:23.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:00:18.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:35:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:21:43.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:00:18.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:24:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:25:05.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:29:23.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\CompanyService.cs",
+              "RelativeToolTip": "Services\\CompanyService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:01:45.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:57:46.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:56:45.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:04:37.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAANMUAAAAAAAAAAAMwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-14T14:55:18.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentInternshipManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\StudentInternshipManagement.csproj",
+              "RelativeDocumentMoniker": "StudentInternshipManagement.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\StudentInternshipManagement.csproj",
+              "RelativeToolTip": "StudentInternshipManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T07:55:40.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:38:19.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\INotificationService.cs",
+              "RelativeToolTip": "Services\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:26:48.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailNotificationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Services\\EmailNotificationService.cs",
+              "RelativeToolTip": "Services\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:27:33.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentInternshipManagement.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\Debug\\net8.0\\StudentInternshipManagement.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\StudentInternshipManagement.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\Debug\\net8.0\\StudentInternshipManagement.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\StudentInternshipManagement.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:08:56.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\project.assets.json",
+              "RelativeToolTip": "obj\\project.assets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPAZAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T05:49:58.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentInternshipManagement.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\StudentInternshipManagement.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "obj\\StudentInternshipManagement.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\StudentInternshipManagement.csproj.nuget.g.targets",
+              "RelativeToolTip": "obj\\StudentInternshipManagement.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-16T05:49:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StudentInternshipManagement.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\StudentInternshipManagement.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "obj\\StudentInternshipManagement.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\obj\\StudentInternshipManagement.csproj.nuget.g.props",
+              "RelativeToolTip": "obj\\StudentInternshipManagement.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-16T05:49:48.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250314173439_ChangeCompanyIdToInt.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314173439_ChangeCompanyIdToInt.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250314173439_ChangeCompanyIdToInt.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314173439_ChangeCompanyIdToInt.cs",
+              "RelativeToolTip": "Migrations\\20250314173439_ChangeCompanyIdToInt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:43:54.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250314172340_UpdateInternshipTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314172340_UpdateInternshipTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250314172340_UpdateInternshipTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314172340_UpdateInternshipTable.cs",
+              "RelativeToolTip": "Migrations\\20250314172340_UpdateInternshipTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:43:31.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250314081947_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314081947_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250314081947_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentInternshipManagement\\Migrations\\20250314081947_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250314081947_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:19:49.56Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
