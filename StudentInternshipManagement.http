@@ -1,6 +1,0 @@
-@StudentInternshipManagement_HostAddress = http://localhost:5224
-
-GET {{StudentInternshipManagement_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
